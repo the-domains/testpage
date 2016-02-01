@@ -2,14 +2,25 @@
     <channel>
         <title><![CDATA[Testpage]]></title>
         <description><![CDATA[Testpage]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/testpage/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 01 Feb 2016 16:35:29 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 01 Feb 2016 16:35:30 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/testpage/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Seite 3]]></title>
+            <description><![CDATA[<article><h1>Seite 3</h1><h2>Lorem ipsum dolor sit amet</h2><p>, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. 
+
+Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. 
+
+Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. </p></article>]]></description>
+            <link>https://thegrid.ai/testpage/seite-3/index.html</link>
+            <guid isPermaLink="false">69d3c1c3-f17a-4ae9-bd24-8961ddb5f3a0</guid>
+            <pubDate>Mon, 01 Feb 2016 16:35:29 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Another Post!]]></title>
             <description><![CDATA[<article><h1>Another Post!</h1><p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/70c90a8bb3e927190453711b9f38815539211df4.jpg"></article>]]></description>
-            <link>undefinedanother-post/index.html</link>
+            <link>https://thegrid.ai/testpage/another-post/index.html</link>
             <guid isPermaLink="false">e07c4a97-cdfe-4a81-95e5-6fbc425139c2</guid>
             <pubDate>Mon, 01 Feb 2016 16:35:28 GMT</pubDate>
         </item>
